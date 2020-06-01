@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HealthCareAppointment", "HealthCareAppointment\HealthCareAppointment.csproj", "{D7F13C0C-D5E6-4E61-A120-A96F702D3F88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HealthCare_BLL", "HealthCare_BLL\HealthCare_BLL.csproj", "{74382DB9-D075-42B6-BEB5-E6D87F4F340A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HealthCare_DAL", "HealthCare_DAL\HealthCare_DAL.csproj", "{6556E7DA-FB28-490C-BE15-E2A39CD352B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{F03A8F8E-A36A-411F-99AE-34E1FAF05D98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repositories", "Repositories\Repositories.csproj", "{34E52281-73AB-4D6E-A864-34464D3C53E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HealthCareAppointment_ApiServices", "HealthCareAppointment_ApiServices\HealthCareAppointment_ApiServices.csproj", "{40645F6A-790C-4F30-9A64-CF273A39FA73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7F13C0C-D5E6-4E61-A120-A96F702D3F88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7F13C0C-D5E6-4E61-A120-A96F702D3F88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7F13C0C-D5E6-4E61-A120-A96F702D3F88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7F13C0C-D5E6-4E61-A120-A96F702D3F88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74382DB9-D075-42B6-BEB5-E6D87F4F340A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74382DB9-D075-42B6-BEB5-E6D87F4F340A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74382DB9-D075-42B6-BEB5-E6D87F4F340A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74382DB9-D075-42B6-BEB5-E6D87F4F340A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6556E7DA-FB28-490C-BE15-E2A39CD352B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6556E7DA-FB28-490C-BE15-E2A39CD352B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6556E7DA-FB28-490C-BE15-E2A39CD352B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6556E7DA-FB28-490C-BE15-E2A39CD352B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F03A8F8E-A36A-411F-99AE-34E1FAF05D98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F03A8F8E-A36A-411F-99AE-34E1FAF05D98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F03A8F8E-A36A-411F-99AE-34E1FAF05D98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F03A8F8E-A36A-411F-99AE-34E1FAF05D98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34E52281-73AB-4D6E-A864-34464D3C53E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34E52281-73AB-4D6E-A864-34464D3C53E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34E52281-73AB-4D6E-A864-34464D3C53E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34E52281-73AB-4D6E-A864-34464D3C53E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40645F6A-790C-4F30-9A64-CF273A39FA73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40645F6A-790C-4F30-9A64-CF273A39FA73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40645F6A-790C-4F30-9A64-CF273A39FA73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40645F6A-790C-4F30-9A64-CF273A39FA73}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0CAAF9E-B482-404B-AABF-771DDDC94C3C}
+	EndGlobalSection
+EndGlobal

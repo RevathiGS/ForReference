@@ -1,0 +1,3 @@
+@Imports HealthCareAppointment_Api_Services.Areas.HelpPage.ModelDescriptions
+@ModelType SimpleTypeModelDescription
+@Model.Documentation
